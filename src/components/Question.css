@@ -1,0 +1,20 @@
+#question{
+    max-width: 500px;
+    padding: 2rem;
+    text-align: center;
+    background-color: #8435de;
+    border-radius: 1rem;
+}
+
+#question h2{
+    margin-bottom: 2rem;
+}
+
+#question p{
+    margin-bottom: 1rem;
+}
+
+#question button{
+    margin: .5rem;
+    border: 2px solid #fff;
+}
